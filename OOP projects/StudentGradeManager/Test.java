@@ -1,4 +1,3 @@
-package assignment7;
 
 import org.junit.Test;
 
